@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UF1rzWW.jpg" , T-Sports
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UF1rzWW.jpg" , T-Sports-2
 http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TtGEdcT.jpg" , Sony Six-2
@@ -39,85 +37,128 @@ http://172.27.27.3:8088/hls/07_StarSports1.m3u8
 http://172.27.27.3:8088/hls/08StarSports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtQXnpe.jpg" , PTV Sports
 http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XU3rdx9.jpg" , Somoy TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LjUXpOC.jpg" , RTV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bys15Lu.jpg" , ATN Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UFDAoG6.jpg" , Banglavision
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/55tYeBS.jpg" , 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fSOO3rk.jpg" , Jamuna TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUVzCVZ.jpg" , DBC News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4seMe5.jpg" , Mohona TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YkpMLWk.jpg" , MY TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fSOO3rk.jpg" , Jamuna TV-2
-http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tw0t3QA.jpg" , Channel 24
-http://tv2.ebox.live:8080/live/ch24youtube.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UFDAoG6.jpg" , Banglavision-2
-http://tv2.ebox.live:8080/live/banae3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xKBOlIr.jpg" , Channel I
-http://tv2.ebox.live:8080/live/chi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kicTmc7.jpg" , Boishakhi TV
-http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g1v9pWg.jpg" , News 24
-http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUVzCVZ.jpg" , DBC News-2
-http://tv2.ebox.live:8080/live/dbc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Eeig6G.jpg" , Gaan Bangla
-http://tv2.ebox.live:8080/live/ex-gan.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CI3rIQ4.jpg" , Maasranga TV
-http://tv2.ebox.live:8080/live/maasranga.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rGNXj9N.jpg" , La Liga
-http://tv2.ebox.live:8080/live/channel9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TtGEdcT.jpg" , Sony Six-4
-http://tv2.ebox.live:8080/live/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPT8BLp.jpg" , Sony ESPN
-http://tv2.ebox.live:8080/live/sonyespn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/23tuVYk.jpg" , Sony Ten-1-2
-http://tv2.ebox.live:8080/live/sonyten-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LAJyj8f.jpg" , Sky Sports Cricket
-http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6800rN.jpg" , Bein Sports 2
-http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VBMbPRn.jpg" , Bein Sports 4
-http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7nJnDt3.jpg" , Star Sports 1-2
-http://tv2.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MzHHtu3.jpg" , Star Sports Hindi
-http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YMAexSa.jpg" , Star Sports 2
-http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itv1LNB.jpg" , MTV
-http://tv2.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ugF1CRu.jpg" , Star Sports Select 2
-http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G1O8cZ3.jpg" , ARY Digital
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7gstOD.jpg" , Star Plus-2
-http://tv2.ebox.live:8080/live/star-plus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LEnXAfh.jpg" , Zee TV
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3PgoIMZ.jpg" , Colors-2
-http://tv2.ebox.live:8080/live/colors.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/THkY7Wv.jpg" , Sony
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5u7T4M.jpg" , Sony Sab-2
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kwA2Bpc.jpg" , Star Gold-2
-http://tv2.ebox.live:8080/live/star-gold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pBxW6kb.jpg" , Set Max-2
-http://tv2.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNQ6w7p.jpg" , Nick
-http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RE1MmN3.jpg" , Animal Planet
-http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PvkKZTX.jpg" , Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="" , Sony Ten 1
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1 tvg-logo="" , Zee Bangla
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-logo="" , Star Gold
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="" , Star Sports 1
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="" , EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="" , Nat Geo
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" , WixLar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 tvg-logo="" , Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-logo="" , Thrill China
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="" , 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="" , Pop Pataakha
+https://live.hungama.com/linear/pop-pataka/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="" , Sun Bangla
+http://103.55.144.46/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-logo="" , Sony Aath
+http://103.55.144.46/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg-logo="" , Gazi TV
+http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="" , Channel I
+http://103.55.144.46/hls/channeli.m3u8
+#EXTINF:-1 tvg-logo="" , Maasranga
+http://103.55.144.46/hls/masranga.m3u8
+#EXTINF:-1 tvg-logo="" , Somoy
+http://103.55.144.46/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo="" , Colors Bangla Cinema
+http://103.55.144.46/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="" , Jalsha Movies
+http://103.55.144.46/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo="" , Colors Bangla HD
+http://103.55.144.46/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="" , Zee Bangla HD
+http://103.55.144.46/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="" , Star Jalsha HD
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="" , Sony Pix HD
+http://103.55.144.46/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="" , Movies Now
+http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:-1 tvg-logo="" , Star Movies HD
+http://103.55.144.46/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="" , MN+
+http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="" , Star World HD
+http://103.55.144.46/hls/star-worldhd.m3u8
+#EXTINF:-1 tvg-logo="" , MNX HD
+http://103.55.144.46/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-logo="" , BBC World
+http://103.55.144.46/hls/bbcworld.m3u8
+#EXTINF:-1 tvg-logo="" , AL Jazeera
+http://103.55.144.46/hls/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="" , Bindass
+http://103.55.144.46/hls/bindass.m3u8
+#EXTINF:-1 tvg-logo="" , UTV Action
+http://103.55.144.46/hls/utvaction.m3u8
+#EXTINF:-1 tvg-logo="" , &Pictures
+http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo="" , Colors HD
+http://103.55.144.46/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="" , Zee Cinema HD
+http://103.55.144.46/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="" , Star Plus HD
+http://103.55.144.46/hls/starplus.m3u8
+#EXTINF:-1 tvg-logo="" , Colors Cineplex
+http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo="" , Star Gold 2 HD
+http://103.55.144.46/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-logo="" , Sony HD
+http://103.55.144.46/hls/sonyen.m3u8
+#EXTINF:-1 tvg-logo="" , Sony Max HD
+http://103.55.144.46/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-logo="" , Discovery Science HD
+http://103.55.144.46/hls/dis-science.m3u8
+#EXTINF:-1 tvg-logo="" , Star Gold HD
+http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="" , Dhinchaak TV
+http://103.55.144.46/hls/dhin.m3u8
+#EXTINF:-1 tvg-logo="" , 9XM HD
+http://103.55.144.46/hls/9xm.m3u8
+#EXTINF:-1 tvg-logo="" , Star Sports Select 1 HD
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8v
+#EXTINF:-1 tvg-logo="" , Star Sports 1 HD
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="" , Star Sports 2 HD
+http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo="" , Sony Ten 3
+http://103.55.144.46/hls/sonyten3.m3u8
+Star Sports Select 2 HD#EXTINF:-1 tvg-logo="" , 
+http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="" , Sony Ten 2
+http://103.55.144.46/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="" , Sony Ten 1
+http://103.55.144.46/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="" , Tsports HD
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="" , Ten Sports
+http://103.55.144.46/hls/ten.m3u8
+#EXTINF:-1 tvg-logo="" , PTV
+http://103.55.144.46/hls/ptv.m3u8
+#EXTINF:-1 tvg-logo="" , Discovery Kids
+http://103.55.144.46/hls/dis-kid.m3u8
+#EXTINF:-1 tvg-logo="" , Nickelodean
+http://103.55.144.46/hls/nick.m3u8
+#EXTINF:-1 tvg-logo="" , Cartoon Network
+http://103.55.144.46/hls/cn.m3u8
+#EXTINF:-1 tvg-logo="" , POGO
+http://103.55.144.46/hls/pogo.m3u8
+#EXTINF:-1 tvg-logo="" , Madani Channel
+http://103.55.144.46/hls/madani.m3u8
+#EXTINF:-1 tvg-logo="" , Al Quran TV
+http://103.55.144.46/hls/qurqntv.m3u8
+
